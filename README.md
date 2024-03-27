@@ -1,5 +1,5 @@
 # Grocery bud
-## Grocery Bud is a user-friendly web application built using **React, HTML, CSS, and local storage functionality**. With Grocery Bud, you can effortlessly manage your grocery list with the following features:
+### Grocery Bud is a user-friendly web application built using **React, HTML, CSS, and local storage functionality**. With Grocery Bud, you can effortlessly manage your grocery list with the following features:
 * **Add Items**: Easily add new items to your grocery list.
 * **Delete Items**: Remove unwanted items from the list with a simple click.
 * **Update Items**: Update existing elements in the list to keep it organized and up-to-date.
